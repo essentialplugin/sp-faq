@@ -5,7 +5,7 @@
  * Description: A simple FAQ plugin created with WordPress custom post type. Also work with Gutenberg shortcode block.
  * Text Domain: sp-faq
  * Domain Path: /languages/
- * Version: 3.9.4
+ * Version: 3.9.5
  * Author: Essential Plugin
  * Author URI: https://essentialplugin.com
  * Requires at least: 4.0
@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if ( ! defined( 'WP_FAQ_VERSION' ) ) {
-	define( 'WP_FAQ_VERSION', '3.9.4' ); // Version of plugin
+	define( 'WP_FAQ_VERSION', '3.9.5' ); // Version of plugin
 }
 if ( ! defined( 'WP_FAQ_DIR' ) ) {
 	define( 'WP_FAQ_DIR', dirname( __FILE__ ) ); // Plugin Dir

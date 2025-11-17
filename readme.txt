@@ -113,6 +113,9 @@ Yes, Add a new FAQ page and add this short code <code>[sp_faq limit="-1"]</code>
 
 == Changelog ==
 
+= 3.9.5 (17, Nov 2025) =
+* [*] Fixed code conflict issue affecting widget saving.
+
 = 3.9.4 (12, Nov 2025) =
 * [*] Check compatibility with WordPress version 6.8.3
 
